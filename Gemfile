@@ -12,7 +12,7 @@ gem 'turbolinks'
 
 gem 'active_model_serializers'
 
-gem 'puma'
+gem 'puma', '>= 3.12.2'
 
 gem 'bootsnap', require: false
 
