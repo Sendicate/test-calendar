@@ -188,7 +188,7 @@ GEM
     turbolinks (5.2.0)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
@@ -213,7 +213,6 @@ DEPENDENCIES
   listen
   pry-rails
   puma (>= 3.12.2)
-  rack (>= 2.0.8)
   rails (= 5.2.3)
   rspec-rails
   sass-rails
